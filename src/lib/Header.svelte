@@ -2,7 +2,7 @@
   <h1>
     <a
       target="_blank"
-      href="https://github.com/MichalUSER/vlsmcalc"
+      href="https://github.com/whytf/vlsmcalc"
       rel="noreferrer"
       class="text-indigo-500 text-4xl md:text-5xl text-center font-bold underline decoration-4"
       >VLSM Calculator
