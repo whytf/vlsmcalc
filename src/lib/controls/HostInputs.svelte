@@ -23,7 +23,7 @@
     {/each}
   </div>
   <div class="flex flex-col w-1/2">
-    <h2 class="{hClass} mr-4">Number of hosts</h2>
+    <h2 class="{hClass} mr-4">Minimum hosts</h2>
     {#each $hosts as host, i}
       <input
         type="number"
